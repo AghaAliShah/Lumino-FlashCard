@@ -1,0 +1,6 @@
+{
+  "name": "Flashcard Generator",
+  "description": "A fully responsive Flashcard Generator with AI topic generation, custom card creator, premium study viewer, and local state persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
